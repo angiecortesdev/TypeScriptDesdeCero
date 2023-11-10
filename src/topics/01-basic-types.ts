@@ -1,6 +1,6 @@
-let nombre: string = "Angie"
+const nombre: string = "Angie"
 
-let numero: number = 356
+const numero: number = 356
 
 console.log({
     nombre, numero
@@ -8,6 +8,6 @@ console.log({
 
 
 export {
-    nombre, 
+    nombre,
     numero
 }
